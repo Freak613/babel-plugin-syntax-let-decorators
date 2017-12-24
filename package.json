@@ -2,7 +2,7 @@
   "name": "@babel/plugin-syntax-let-decorators",
   "version": "7.0.0-beta.35",
   "description": "Allow parsing of decorators attach on let",
-  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-let-decorators",
+  "repository": "https://github.com/ukari/babel-plugin-syntax-let-decorators.git",
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [
