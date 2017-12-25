@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-npm install --save-dev @babel/plugin-syntax-let-decorators
+npm install --save-dev github:ukari/babel-plugin-syntax-let-decorators
 ```
 
 ## Usage
